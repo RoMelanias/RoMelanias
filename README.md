@@ -1,4 +1,6 @@
-## Olá Pessoal, me chamo Rosangela
+## Olá Pessoal, sou a Rosangela e este é meu avatar
+
+![Image](https://github.com/user-attachments/assets/5124f86a-41a1-482d-97bf-ab0004fcf88f)
 ## Bem vindo ao meu perfil no Github 👋
 
 Atualmente estou em busca de recolocação profisional e sempre atuei na área comercial técnica com soluções on premises e cloud tanto para usabiidade quanto para segurança com grandes marcas como Dell, AWS, Microsoft, Oracle, Google, BitDefender, Cisco, Trend Micro e muitos outros.
